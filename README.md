@@ -1,5 +1,9 @@
 # A simple package to generate Eloquent Model Keys
 
+## Installation
+```bash
+composer require amirkacem/model-key-factory
+```
 
 You can publish the config file with:
 ```bash
