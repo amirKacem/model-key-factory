@@ -5,6 +5,7 @@
         "laravel",
         "model-key-factory"
     ],
+    "homepage": "https://github.com/amirKacem/model-key-factory.git",
     "license": "MIT",
     "authors": [
         {
