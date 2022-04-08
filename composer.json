@@ -1,5 +1,5 @@
 {
-    "name": "amir/model-key-factory",
+    "name": "amirkacem/model-key-factory",
     "description": "A simple package to generate Eloquent Model Keys",
     "keywords": [
         "laravel",
