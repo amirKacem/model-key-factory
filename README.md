@@ -1,4 +1,6 @@
 # A simple package to generate Eloquent Model Keys
+[![Latest Version on Packagist](https://img.shields.io/badge/packagist-v1.0.1-blue)](https://packagist.org/packages/amirkacem/model-key-factory)
+[![Stars](https://img.shields.io/github/stars/amirKacem/model-key-factory?color=success)](https://github.com/amirKacem/model-key-factory/stargazers)
 
 ## Installation
 ```bash
