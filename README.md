@@ -9,7 +9,7 @@ composer require amirkacem/model-key-factory
 
 You can publish the config file with:
 ```bash
-php artisan vendor:publish --provider="Eloquent\KeyFactory\KeyFactoryServiceProvider" --tag="key-factory"
+php artisan vendor:publish --provider="Eloquent\KeyFactory\KeyFactoryServiceProvider" --tag="model-key-factory-config"
 ```
 
 This is the contents of the published config file:
